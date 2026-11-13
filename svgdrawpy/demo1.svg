@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-500 -500 1000 1000">
+<!-- 由 drawsvg.geo 编译 -->
+<!-- 2026 年 11 月 3 日 -->
+
+    <!--示例-太极图-->
+    <!--Circle None: c=Vec(0,0) r=200-->
+    <circle cx="0" cy="0" r="200" fill="none" stroke="red" />
+
+    <!--Arc None: c=Vec(0,100) start=-1.5707963267948966 stop=1.5707963267948966-->
+    <path d="M6.123233995736766e-15 -0.0 A100 100 0 1 0 6.123233995736766e-15 -200.0" fill="none" stroke="red" />
+
+    <!--Circle None: c=Vec(0,100) r=30-->
+    <circle cx="0" cy="-100" r="30" fill="none" stroke="red" />
+
+    <!--Arc None: c=Vec(0,-100) start=1.5707963267948966 stop=-1.5707963267948966-->
+    <path d="M6.123233995736766e-15 -0.0 A100 100 0 1 0 6.123233995736766e-15 200.0" fill="none" stroke="red" />
+
+    <!--Circle None: c=Vec(0,-100) r=30-->
+    <circle cx="0" cy="100" r="30" fill="none" stroke="red" />
+
+</svg>
